@@ -81,7 +81,7 @@ final_predictions, actual_y = train_perceptron(final_X, final_y, "Final Perceptr
 - Final Perceptron Accuracy: **100.00%** | Predictions: `[0 1 1 0]`
 
 #### My Comments
-- This Multi-Layer Perceptron (MLP) correctly XOR
+- This Multi-Layer Perceptron (MLP) correctly classify XOR operation.
 - Accuracy is calculated and printed for each model
 - Accuracy of 100% for both individual perceptrons and the final perceptron shows on Boolean function.
 - Weight initialization is random, which affect performance.
